@@ -28,7 +28,6 @@ import org.bukkit.scheduler.BukkitRunnable;
 import org.bukkit.util.BoundingBox;
 import org.bukkit.util.RayTraceResult;
 import org.bukkit.util.Vector;
-
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 public final class YamatoListener implements Listener {
