@@ -4,7 +4,6 @@ import net.md_5.bungee.api.chat.TextComponent;
 import org.bukkit.ChatColor;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
-
 import java.util.LinkedHashMap;
 import java.util.Locale;
 import java.util.Map;
