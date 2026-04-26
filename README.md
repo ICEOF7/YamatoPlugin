@@ -26,7 +26,7 @@ Minecraft Yamato sword plugin for Spigot, Paper and Purpur 1.20.5–1.21.x
   
 Лучше всего использовать **Paper** или **Purpur**. На обычный **Spigot** плагин тоже рассчитан
 
-  ---
+---
 
 ## Что есть
 
@@ -42,7 +42,7 @@ Minecraft Yamato sword plugin for Spigot, Paper and Purpur 1.20.5–1.21.x
 
 * настройка урона, кулдаунов, предмета и сообщений через `config.yml`
 
-  ---
+---
 
 ## Команды
 
@@ -130,7 +130,7 @@ yamato.admin
 
 В тексте можно использовать цвета вроде `<red>`, `<dark_purple>`, `<#7c5cff>` и цветовые коды через `&`
 
-  ---
+---
 
 ## Автор
 
