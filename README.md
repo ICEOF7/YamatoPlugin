@@ -1,5 +1,8 @@
 # YamatoPlugin
+
 Minecraft Yamato sword plugin for Spigot, Paper and Purpur 1.20.5–1.21.x
+
+---
 
 **YamatoPlugin** добавляет на сервер меч **Yamato**. Это быстрый клинок с активными способностями, зарядом ульты и настраиваемыми сообщениями
 
