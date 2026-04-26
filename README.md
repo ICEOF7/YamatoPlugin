@@ -134,4 +134,4 @@ yamato.admin
 
 ## Автор
 
-Автор плагина: **Lama**
+Автор плагина: [**Lama**](https://t.me/lamabio)
