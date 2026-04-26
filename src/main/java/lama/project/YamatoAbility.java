@@ -1,5 +1,4 @@
 package lama.project;
-
 public enum YamatoAbility {
     JUDGEMENT_CUT,
     DASH,
